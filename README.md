@@ -31,7 +31,7 @@ learning classification algorithms. The code can extract two different types of 
 		
 <table>
 	<tr>
-		<thNumber</th>
+		<th>Number</th>
 		<th>Description of feature </th>
 		<th>Type</th>
 	</tr>
@@ -152,7 +152,7 @@ learning classification algorithms. The code can extract two different types of 
 		
 <table>
 	<tr>
-		<thNumber</th>
+		<th>Number</th>
 		<th>Description of feature </th>
 	</tr>
 	<tr>

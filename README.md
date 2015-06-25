@@ -281,7 +281,7 @@ Optional Arguments
 	affiliation = {University of Manchester},
 	month  = {November},
 	year   = {2014},
-	howpublished = {World Wide Web Accessed (19/11/2014), \newline \url{https://github.com/scienceguyrob/KnownSourceMatcher}},
+	howpublished = {World Wide Web Accessed (19/11/2014), \newline \url{https://github.com/scienceguyrob/PulsarFeatureExtractor}},
 	notes  = {Accessed 19/11/2014}
 	}
 	

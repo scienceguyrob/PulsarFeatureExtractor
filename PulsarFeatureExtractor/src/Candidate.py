@@ -280,7 +280,10 @@ class Candidate:
             return self.scores
         else:
             #print "Computing SUPERB PHCX scores."
-            return []
+            c = superb.SUPERBPHCX(verbose,self.candidateName)
+            self.scores = [] # Clear any existing data
+            self.scores = c.computeDMCurveStatScores()
+            return self.scores
         
     # ****************************************************************************************************
         
